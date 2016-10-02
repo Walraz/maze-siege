@@ -192,7 +192,7 @@ function render() {
       this.atlases.monsterAtlas.frames[j].offset = [-2, 0];
     }
     for(var i = 0; i < this.monsters.length; i++) {
-      if(this.monsters[i].life) {
+      if(this.monsters[i].life > 0) {
         game.layer
           .drawAtlasFrame(atlas, current, this.monsters[i].x, this.monsters[i].y);
         game.layer
