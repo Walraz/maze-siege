@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "slime-1.png",
+	"frame": {"x":0,"y":0,"w":25,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":20},
+	"sourceSize": {"w":25,"h":20},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "slime-2.png",
+	"frame": {"x":25,"y":0,"w":25,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":20},
+	"sourceSize": {"w":25,"h":20},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "slime-3.png",
+	"frame": {"x":50,"y":0,"w":25,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":20},
+	"sourceSize": {"w":25,"h":20},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "slime-4.png",
+	"frame": {"x":75,"y":0,"w":25,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":20},
+	"sourceSize": {"w":25,"h":20},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "monsterAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":100,"h":20},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:23c338bc5c7f0577a84496f85445e823:f8b483bada03a6aec9b8ac55ba7d85ac:9eb4db1ec5714bdb9e0c29fc0748b502$"
+}
+}
